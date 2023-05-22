@@ -8,3 +8,6 @@ Nesse projeto estou com a ideia de criar um site de venda de botas utilizando Bo
 
 ## Objetivo do projeto:
   - Praticar uso de Bootstrap e de MediaQuery
+
+## Problemas:
+  - Não consegui redimensionar as imagens
