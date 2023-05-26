@@ -3,7 +3,6 @@ Nesse projeto estou com a ideia de criar um site de venda de botas utilizando Bo
 
 ## Metas:
   - Utilizar o Bootstrap pela primeira vez.
-  - Adequar o site para animações e Javascript
 
 ## Objetivo do projeto:
   - Praticar uso de Bootstrap
