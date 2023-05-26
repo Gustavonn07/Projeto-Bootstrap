@@ -4,10 +4,9 @@ Nesse projeto estou com a ideia de criar um site de venda de botas utilizando Bo
 ## Metas:
   - Utilizar o Bootstrap pela primeira vez.
   - Adequar o site para animações e Javascript
-  - Deixar o site responsivo para telas de 600px, 768px, 1024px e 1440px
 
 ## Objetivo do projeto:
-  - Praticar uso de Bootstrap e de MediaQuery
+  - Praticar uso de Bootstrap
 
 ## Problemas:
   - Não consegui redimensionar as imagens
