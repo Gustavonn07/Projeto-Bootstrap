@@ -1,5 +1,5 @@
 # Projeto-Bootstrap
-Nesse projeto estou com a ideia de criar um site de venda de botas utilizando Bootstrap (ja que em ingles boot é bota então decidi brincar com isso...)
+Nesse projeto estou com a ideia de criar um site de venda de botas utilizando Bootstrap.
 
 Para acessar clique no link: https://gustavonn07.github.io/Projeto-Bootstrap/
 
